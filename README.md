@@ -24,9 +24,6 @@ Execute the C Program for the desired output.
 ## Reg No:21222230115
 
 ## C program that receives a message from message queue and display them
-
-writer .c
-
 ```python
 // C Program for Message Queue (Writer Process) 
 #include <stdio.h>
